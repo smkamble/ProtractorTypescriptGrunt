@@ -1,0 +1,23 @@
+{
+	"url": "https://oldtest16app.css.ad.capita.co.uk/IM%20Rewrite/Im%20Suite/Services/client/index.html",
+	"apiurl": "https://oldtest16app.css.ad.capita.co.uk/IM Rewrite/Im Suite/Services/api/",
+	"timeout1": 1000,
+	"timeout2": 2000,
+	"timeout3": 3000,
+	"timeout5": 5000,
+    "timeout10": 10000,
+    "timeout20": 20000,
+	"apijson": {
+		"consortiumCode": "QZ",
+		"loginName": "QAPerformance01",
+		"password": "Capita99@@"
+	},
+	"login": {
+		"user": "Sachin",
+		"password_user": "Sept@1234",
+		"consortium_user": "QZ"
+	},
+	"loginPage":{
+		"incomeManagement_lbl":"Income Management"
+	}
+}
